@@ -1,0 +1,753 @@
+# Loco Gettext template
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Business One Page\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: Thu Jan 07 2016 17:40:28 GMT+0545 (Nepal Standard Time)\n"
+"POT-Revision-Date: Wed Jul 20 2016 17:02:44 GMT+0545 (Nepal Standard Time)\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: ..\n"
+"X-Poedit-KeywordsList: _:1;gettext:1;dgettext:2;ngettext:1,2;dngettext:2,3;"
+"__:1;_e:1;_c:1;_n:1,2;_n_noop:1,2;_nc:1,2;__ngettext:1,2;__ngettext_noop:1,2;"
+"_x:1,2c;_ex:1,2c;_nx:1,2,4c;_nx_noop:1,2,3c;_n_js:1,2;_nx_js:1,2,3c;"
+"esc_attr__:1;esc_html__:1;esc_attr_e:1;esc_html_e:1;esc_attr_x:1,2c;"
+"esc_html_x:1,2c;comments_number_link:2,3;t:1;st:1;trans:1;transChoice:1,2\n"
+"X-Generator: Loco - https://localise.biz/"
+
+#: ../404.php:17
+msgid "Oops! That page can&rsquo;t be found."
+msgstr ""
+
+#: ../404.php:21
+msgid ""
+"It looks like nothing was found at this location. Maybe try one of the links "
+"below or a search?"
+msgstr ""
+
+#: ../archive.php:38 ../index.php:44
+msgid "Prev"
+msgstr ""
+
+#: ../archive.php:39 ../index.php:45
+msgid "Next"
+msgstr ""
+
+#: ../archive.php:40 ../index.php:46
+msgid "Page"
+msgstr ""
+
+#: ../comments.php:31 ../sections/section-blog.php:53
+#, php-format
+msgctxt "comments title"
+msgid "1 Comment"
+msgid_plural "%1$s Comments"
+msgstr[0] ""
+msgstr[1] ""
+
+#: ../comments.php:50
+msgid "Comment navigation"
+msgstr ""
+
+#: ../comments.php:53
+msgid "Older Comments"
+msgstr ""
+
+#: ../comments.php:54
+msgid "Newer Comments"
+msgstr ""
+
+#: ../comments.php:67
+msgid "Comments are closed."
+msgstr ""
+
+#: ../comments.php:79
+msgid "Name"
+msgstr ""
+
+#: ../comments.php:82
+msgid "Email"
+msgstr ""
+
+#: ../comments.php:85
+msgid "Website"
+msgstr ""
+
+#: ../comments.php:94
+msgid "Leave a Reply"
+msgstr ""
+
+#: ../comments.php:95
+#, php-format
+msgid "Leave a Reply to %s"
+msgstr ""
+
+#: ../comments.php:96
+msgid "Cancel Reply"
+msgstr ""
+
+#: ../comments.php:97
+msgid "POST COMMENT"
+msgstr ""
+
+#: ../comments.php:100
+msgid "Comment"
+msgstr ""
+
+#: ../comments.php:105
+#, php-format
+msgid "You must be <a href=\"%s\">logged in</a> to post a comment."
+msgstr ""
+
+#: ../comments.php:111
+#, php-format
+msgid ""
+"Logged in as <a href=\"%1$s\">%2$s</a>. <a href=\"%3$s\" title=\"Log out of this "
+"account\">Log out?</a>"
+msgstr ""
+
+#: ../footer.php:54
+msgid "Scroll"
+msgstr ""
+
+#: ../functions.php:47
+msgid "Primary"
+msgstr ""
+
+#: ../functions.php:137
+msgid "Right Sidebar"
+msgstr ""
+
+#: ../functions.php:147
+msgid "Footer One"
+msgstr ""
+
+#: ../functions.php:157
+msgid "Footer Two"
+msgstr ""
+
+#: ../functions.php:167
+msgid "Footer Three"
+msgstr ""
+
+#: ../header.php:57
+msgid "Home"
+msgstr ""
+
+#: ../search.php:19
+#, php-format
+msgid "Search Results for: %s"
+msgstr ""
+
+#. Name of the template
+msgid "Home Page"
+msgstr ""
+
+#: ../inc/customizer.php:28
+msgid "Choose Category"
+msgstr ""
+
+#: ../inc/customizer.php:36
+msgid "Choose Post"
+msgstr ""
+
+#: ../inc/customizer.php:44
+msgid "Choose Page"
+msgstr ""
+
+#: ../inc/customizer.php:56
+msgid "Default Settings"
+msgstr ""
+
+#: ../inc/customizer.php:57
+msgid "Default section provided by WordPress customizer."
+msgstr ""
+
+#: ../inc/customizer.php:77
+msgid "Slider Settings"
+msgstr ""
+
+#: ../inc/customizer.php:95
+msgid "Enable Home Page Slider"
+msgstr ""
+
+#: ../inc/customizer.php:113
+msgid "Enable Slider Auto Transition"
+msgstr ""
+
+#: ../inc/customizer.php:131
+msgid "Enable Slider Loop"
+msgstr ""
+
+#: ../inc/customizer.php:149
+msgid "Enable Slider Pager"
+msgstr ""
+
+#: ../inc/customizer.php:167
+msgid "Enable Slider Caption"
+msgstr ""
+
+#: ../inc/customizer.php:185
+msgid "Choose Slider Animation"
+msgstr ""
+
+#: ../inc/customizer.php:189
+msgid "Fade"
+msgstr ""
+
+#: ../inc/customizer.php:190
+msgid "Slide"
+msgstr ""
+
+#: ../inc/customizer.php:207
+msgid "Slider Speed"
+msgstr ""
+
+#: ../inc/customizer.php:225
+msgid "Animation Speed"
+msgstr ""
+
+#: ../inc/customizer.php:235 ../inc/extras.php:124 ../sections/section-portfolio.
+#: php:66
+msgid "Learn More"
+msgstr ""
+
+#: ../inc/customizer.php:243
+msgid "Readmore Text"
+msgstr ""
+
+#: ../inc/customizer.php:261 ../inc/customizer.php:414 ../inc/customizer.php:537 .
+#: ./inc/customizer.php:818
+msgid "Select Post One"
+msgstr ""
+
+#: ../inc/customizer.php:280 ../inc/customizer.php:433 ../inc/customizer.php:556 .
+#: ./inc/customizer.php:837
+msgid "Select Post Two"
+msgstr ""
+
+#: ../inc/customizer.php:299 ../inc/customizer.php:452 ../inc/customizer.php:575 .
+#: ./inc/customizer.php:856
+msgid "Select Post Three"
+msgstr ""
+
+#: ../inc/customizer.php:318 ../inc/customizer.php:594 ../inc/customizer.php:875
+msgid "Select Post Four"
+msgstr ""
+
+#: ../inc/customizer.php:332
+msgid "Home Page Settings"
+msgstr ""
+
+#: ../inc/customizer.php:333
+msgid "Customize Home Page Settings"
+msgstr ""
+
+#: ../inc/customizer.php:341
+msgid "About Section"
+msgstr ""
+
+#: ../inc/customizer.php:359
+msgid "Enable About Section"
+msgstr ""
+
+#: ../inc/customizer.php:377
+msgid "About Section Menu Title"
+msgstr ""
+
+#: ../inc/customizer.php:395 ../inc/customizer.php:518 ../inc/customizer.php:799 .
+#: ./inc/customizer.php:960 ../inc/customizer.php:1045 ../inc/customizer.php:1228 
+#: ../inc/customizer.php:1414
+msgid "Select Page"
+msgstr ""
+
+#: ../inc/customizer.php:464
+msgid "Service Section"
+msgstr ""
+
+#: ../inc/customizer.php:482
+msgid "Enable Service Section"
+msgstr ""
+
+#: ../inc/customizer.php:500
+msgid "Service Section Menu Title"
+msgstr ""
+
+#: ../inc/customizer.php:613 ../inc/customizer.php:894
+msgid "Select Post Five"
+msgstr ""
+
+#: ../inc/customizer.php:632
+msgid "Select Post Six"
+msgstr ""
+
+#: ../inc/customizer.php:644
+msgid "First Promotional Block Section"
+msgstr ""
+
+#: ../inc/customizer.php:662 ../inc/customizer.php:1277
+msgid "Enable Promotional Block Section"
+msgstr ""
+
+#: ../inc/customizer.php:680 ../inc/customizer.php:1295
+msgid "Promotional Block Section Title"
+msgstr ""
+
+#: ../inc/customizer.php:698 ../inc/customizer.php:1313
+msgid "Promotional Block Section Content"
+msgstr ""
+
+#: ../inc/customizer.php:716 ../inc/customizer.php:1331
+msgid "Promotional Block Section Button"
+msgstr ""
+
+#: ../inc/customizer.php:734 ../inc/customizer.php:1349
+msgid "Promotional Block Section Button Url"
+msgstr ""
+
+#: ../inc/customizer.php:745
+msgid "Portfolio Section"
+msgstr ""
+
+#: ../inc/customizer.php:763
+msgid "Enable Portfolio Section"
+msgstr ""
+
+#: ../inc/customizer.php:781
+msgid "Portfolio Section Menu Title"
+msgstr ""
+
+#: ../inc/customizer.php:906
+msgid "Team Section"
+msgstr ""
+
+#: ../inc/customizer.php:924
+msgid "Enable Team Section"
+msgstr ""
+
+#: ../inc/customizer.php:942
+msgid "Team Section Menu Title"
+msgstr ""
+
+#: ../inc/customizer.php:979 ../inc/customizer.php:1247
+msgid "Select Category"
+msgstr ""
+
+#: ../inc/customizer.php:991
+msgid "Client Section"
+msgstr ""
+
+#: ../inc/customizer.php:1009
+msgid "Enable Client Section"
+msgstr ""
+
+#: ../inc/customizer.php:1027
+msgid "Client Section Menu Title"
+msgstr ""
+
+#: ../inc/customizer.php:1063
+msgid "Select Client Logos"
+msgstr ""
+
+#: ../inc/customizer.php:1073
+msgid "Blog Section"
+msgstr ""
+
+#: ../inc/customizer.php:1091
+msgid "Enable Blog Section"
+msgstr ""
+
+#: ../inc/customizer.php:1109
+msgid "Blog Section Menu Title"
+msgstr ""
+
+#: ../inc/customizer.php:1127
+msgid "Blog Section Title"
+msgstr ""
+
+#: ../inc/customizer.php:1145
+msgid "Blog Section Content"
+msgstr ""
+
+#: ../inc/customizer.php:1155 ../sections/section-blog.php:10
+msgid "View All Blogs"
+msgstr ""
+
+#: ../inc/customizer.php:1163
+msgid "Blog View All Text"
+msgstr ""
+
+#: ../inc/customizer.php:1174
+msgid "Testimonial Section"
+msgstr ""
+
+#: ../inc/customizer.php:1192
+msgid "Enable Testimonial Section"
+msgstr ""
+
+#: ../inc/customizer.php:1210
+msgid "Testimonial Section Menu Title"
+msgstr ""
+
+#: ../inc/customizer.php:1259
+msgid "Second Promotional Block Section"
+msgstr ""
+
+#: ../inc/customizer.php:1360
+msgid "Contact Section"
+msgstr ""
+
+#: ../inc/customizer.php:1378
+msgid "Enable Contact Section"
+msgstr ""
+
+#: ../inc/customizer.php:1396
+msgid "Contact Section Menu Title"
+msgstr ""
+
+#: ../inc/customizer.php:1433
+msgid "Contact Section Contact Form"
+msgstr ""
+
+#: ../inc/customizer.php:1434
+msgid ""
+"Enter the Contact Form 7 Shortcode. Ex. [contact-form-7 id=\"186\" "
+"title=\"Google contact\"]"
+msgstr ""
+
+#: ../inc/customizer.php:1452
+msgid "Contact Info Title"
+msgstr ""
+
+#: ../inc/customizer.php:1470
+msgid "Contact Info Content"
+msgstr ""
+
+#: ../inc/customizer.php:1488
+msgid "Contact Address"
+msgstr ""
+
+#: ../inc/customizer.php:1506
+msgid "Contact Phone"
+msgstr ""
+
+#: ../inc/customizer.php:1524
+msgid "Contact Fax"
+msgstr ""
+
+#: ../inc/customizer.php:1542
+msgid "Contact Email"
+msgstr ""
+
+#: ../inc/customizer.php:1555
+msgid "Social Settings"
+msgstr ""
+
+#: ../inc/customizer.php:1556
+msgid "Leave blank if you do not want to show the social link."
+msgstr ""
+
+#: ../inc/customizer.php:1574 ../inc/extras.php:209 ../inc/widget-social-links.
+#: php:54 ../inc/widget-social-links.php:100
+msgid "Facebook"
+msgstr ""
+
+#: ../inc/customizer.php:1592 ../inc/extras.php:210 ../inc/widget-social-links.
+#: php:56 ../inc/widget-social-links.php:105
+msgid "Twitter"
+msgstr ""
+
+#: ../inc/customizer.php:1610 ../inc/extras.php:211 ../inc/widget-social-links.
+#: php:58 ../inc/widget-social-links.php:110
+msgid "Pinterest"
+msgstr ""
+
+#: ../inc/customizer.php:1628 ../inc/extras.php:212 ../inc/widget-social-links.
+#: php:115
+msgid "LinkedIn"
+msgstr ""
+
+#: ../inc/customizer.php:1646 ../inc/extras.php:213 ../inc/widget-social-links.
+#: php:62 ../inc/widget-social-links.php:120
+msgid "Google Plus"
+msgstr ""
+
+#: ../inc/customizer.php:1657
+msgid "Custom CSS Settings"
+msgstr ""
+
+#: ../inc/customizer.php:1675
+msgid "Custom Css"
+msgstr ""
+
+#: ../inc/customizer.php:1677
+msgid "Put your custom CSS"
+msgstr ""
+
+#: ../inc/extras.php:90
+#, php-format
+msgid "<b class=\"fn\">%s</b>"
+msgstr ""
+
+#: ../inc/extras.php:93
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#. translators: 1: date, 2: time
+#: ../inc/extras.php:102
+#, php-format
+msgid "%1$s - %2$s"
+msgstr ""
+
+#: ../inc/extras.php:265
+#, php-format
+msgid "Copyright &copy;  %s"
+msgstr ""
+
+#: ../inc/extras.php:266
+#, php-format
+msgid "%s"
+msgstr ""
+
+#. Theme URI of the theme
+#: ../inc/extras.php:266
+msgid "http://raratheme.com/wordpress-themes/business-one-page/"
+msgstr ""
+
+#: ../inc/extras.php:267
+#, php-format
+msgid "Powered by: %s"
+msgstr ""
+
+#: ../inc/extras.php:267
+msgid "https://wordpress.org/"
+msgstr ""
+
+#. $id
+#: ../inc/metabox.php:14
+msgid "Sidebar Layout"
+msgstr ""
+
+#: ../inc/metabox.php:24
+msgid "Right sidebar (default)"
+msgstr ""
+
+#: ../inc/metabox.php:29
+msgid "No sidebar"
+msgstr ""
+
+#: ../inc/metabox.php:41
+msgid "Choose Sidebar Template"
+msgstr ""
+
+#: ../inc/multiimage-custom-control.php:47
+msgid "Upload"
+msgstr ""
+
+#: ../inc/multiimage-custom-control.php:50
+msgid "Remove all images"
+msgstr ""
+
+#: ../inc/template-tags.php:24
+#, php-format
+msgctxt "post date"
+msgid "%s"
+msgstr ""
+
+#: ../inc/template-tags.php:29
+#, php-format
+msgctxt "post author"
+msgid "%s"
+msgstr ""
+
+#. translators: used between list items, there is a space after the comma
+#. translators: used between list items, there is a space after the comma
+#: ../inc/template-tags.php:47 ../inc/template-tags.php:55
+msgid ", "
+msgstr ""
+
+#: ../inc/template-tags.php:51
+#, php-format
+msgid "Categories: %1$s"
+msgstr ""
+
+#: ../inc/template-tags.php:57
+#, php-format
+msgid "Tags: %1$s"
+msgstr ""
+
+#. translators: %s: Name of current post
+#. translators: %s: Name of current post
+#: ../inc/template-tags.php:65 ../template-parts/content-page.php:42
+#, php-format
+msgid "Edit %s"
+msgstr ""
+
+#: ../inc/template-tags.php:79
+msgid " "
+msgstr ""
+
+#: ../inc/template-tags.php:81 ../inc/widget-popular-post.php:71 ../inc/widget-
+#: popular-post.php:71 ../inc/widget-recent-post.php:70 ../inc/widget-recent-post.
+#: php:70
+#, php-format
+msgid "%1$s"
+msgstr ""
+
+#. Base ID
+#: ../inc/widget-popular-post.php:24
+msgid "RARA: Popular Post"
+msgstr ""
+
+#: ../inc/widget-popular-post.php:25
+msgid "A Popular Post Widget"
+msgstr ""
+
+#: ../inc/widget-popular-post.php:39 ../inc/widget-popular-post.php:96 ..
+#: /inc/widget-popular-post.php:138
+msgid "Popular Posts"
+msgstr ""
+
+#: ../inc/widget-popular-post.php:104 ../inc/widget-recent-post.php:103 ..
+#: /inc/widget-social-links.php:95
+msgid "Title"
+msgstr ""
+
+#: ../inc/widget-popular-post.php:109 ../inc/widget-recent-post.php:108
+msgid "Number of Posts"
+msgstr ""
+
+#: ../inc/widget-popular-post.php:115 ../inc/widget-recent-post.php:114
+msgid "Show Post Thumbnail"
+msgstr ""
+
+#: ../inc/widget-popular-post.php:120 ../inc/widget-recent-post.php:119
+msgid "Show Post Date"
+msgstr ""
+
+#. Base ID
+#: ../inc/widget-recent-post.php:24
+msgid "RARA: Recent Post"
+msgstr ""
+
+#: ../inc/widget-recent-post.php:25
+msgid "A Recent Post Widget"
+msgstr ""
+
+#: ../inc/widget-recent-post.php:39 ../inc/widget-recent-post.php:95 ..
+#: /inc/widget-recent-post.php:137
+msgid "Recent Posts"
+msgstr ""
+
+#. Base ID
+#: ../inc/widget-social-links.php:24
+msgid "RARA: Social Links"
+msgstr ""
+
+#: ../inc/widget-social-links.php:25
+msgid "A Social Links Widget"
+msgstr ""
+
+#: ../inc/widget-social-links.php:39 ../inc/widget-social-links.php:83 ..
+#: /inc/widget-social-links.php:149
+msgid "Subscribe & Follow"
+msgstr ""
+
+#: ../inc/widget-social-links.php:60
+msgid "Linkedin"
+msgstr ""
+
+#: ../inc/widget-social-links.php:64 ../inc/widget-social-links.php:125
+msgid "Instagram"
+msgstr ""
+
+#: ../inc/widget-social-links.php:66 ../inc/widget-social-links.php:130
+msgid "YouTube"
+msgstr ""
+
+#: ../sections/section-blog.php:51
+msgid "/"
+msgstr ""
+
+#: ../sections/section-contact.php:42
+msgid "Leave a message"
+msgstr ""
+
+#: ../template-parts/content-none.php:14
+msgid "Nothing Found"
+msgstr ""
+
+#: ../template-parts/content-none.php:21
+#, php-format
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#: ../template-parts/content-none.php:25
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+
+#: ../template-parts/content-none.php:31
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+
+#: ../template-parts/content-page.php:31 ../template-parts/content.php:65
+msgid "Pages:"
+msgstr ""
+
+#: ../template-parts/content.php:50
+#, php-format
+msgid "Continue reading %s <span class=\"meta-nav\">&rarr;</span>"
+msgstr ""
+
+#: ../template-parts/content.php:58
+msgid "Read More"
+msgstr ""
+
+#: ../template-parts/content.php:77
+msgid "About the Author"
+msgstr ""
+
+msgid "Business One Page"
+msgstr ""
+
+#. Description of the theme
+msgid ""
+"Business One Page is a clean, modern and engaging one page WordPress Theme "
+"suitable for business websites, digital agency, corporate business, "
+"freelancers, portfolio, product showcase, bloggers and everyone one who "
+"appreciates beautiful design. The design is responsive and shows very well "
+"in mobile and tablet devices. The theme is SEO friendly and make it easy to "
+"find on Google and other search engines. It is loaded with theme options and "
+"provides several features to make user-friendly, interactive and visually "
+"stunning website. Such features include advance slider options, portfolio "
+"and product showcase, team member, our services showcase, 2 clear Call to "
+"Action (CTA) buttons, testimonials, social media, contact details with "
+"contact form. It also includes 3 custom widgets for recent posts, popular "
+"posts and social media. The theme is also translation ready. Designed with "
+"visitor engagement in mind, Business One Page allows anyone to create a "
+"beautiful, fast and mobile friendly website compatible with all browsers and "
+"devices. You can get free support in http://raratheme.com/support-forum/, "
+"Doucmentation: http://raratheme.com/documentation/business-one-page and "
+"check the demo at http://raratheme.com/preview/business-one-page/"
+msgstr ""
+
+#. Author of the theme
+msgid "Rara Theme"
+msgstr ""
+
+#. Author URI of the theme
+msgid "http://raratheme.com/"
+msgstr ""
